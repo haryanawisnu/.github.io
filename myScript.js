@@ -62,7 +62,7 @@ var chat=function(name,address) {
 	  document.getElementById('king').src="images/king-win.png";
   };
 };
-var raja = new chat("Raja Suit","Kerjaan Leudokinian" );
+var raja = new chat("Raja Suit","Kerajaan Leudokinian" );
 
 function gameon(action){
 		var human=action;
@@ -244,7 +244,7 @@ function clear(args){
 	document.getElementById("gunting").className= "fa";
 	document.getElementById("batu").className= "fa";
 	document.getElementById("jurusraja").className = "fa";
-	document.getElementById('instruksi').innerHTML="Anda "+args+",Pilih jurus lagi!!";
+	document.getElementById('instruksi').innerHTML="Anda "+args+", Pilih jurus lagi!!";
 	document.getElementById('king').src="images/king-wait.png";
 	status="on";
 }
