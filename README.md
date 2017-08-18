@@ -31,3 +31,6 @@ p
 ```
 ### About Me :
 Haryana wisnu - Mini Biography (2/16/2017) Haryana wisnu was a computer programmer by the age of 17. While a sophomore at Harvard, he co-founded something out of his dorm room. something is now the world's largest IT, making Haryana wisnu a Smart people.
+
+### Future Plan :
+Renacana kedepan terhadap website adalah menambahkan fungsi pembayaran, agar pada website dapat melakukan pembayaran/transaksi dengan internet banking. Sehingga mempermudah pelanggan untuk membelu barang saat melakukan pembayaran.
